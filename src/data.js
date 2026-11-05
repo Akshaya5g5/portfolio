@@ -2,7 +2,7 @@ export const profile = {
   name: 'Uba Akshaya',
   email: 'ubaakshaya@gmail.com',
   linkedin: 'https://www.linkedin.com/in/akshaya-u-9536a4243/',
-  roles: ['Python backend engineer', 'LLM & AI agent builder', 'OCI + Terraform automation'],
+  roles: ['Python Full Stack engineer', 'LLM & AI agent builder', 'OCI + Terraform automation'],
   summary:
     'Full Stack Developer with 2 years of experience building Python backends and REST APIs. I work with FastAPI and Django, connect external and LLM APIs, and run the infrastructure on Oracle Cloud with Terraform.',
 }
